@@ -106,9 +106,26 @@ print("Server replied:", reply)
 client_socket.close()
 
 **##output**
+
+
+
 server
+
+
+
+
+
 <img width="624" height="199" alt="image" src="https://github.com/user-attachments/assets/361d2e24-0b70-4b1e-9f9a-7934f77f4e36" />
+
+
+
+
+
 client
+
+
+
+
 <img width="582" height="190" alt="image" src="https://github.com/user-attachments/assets/15ead7fb-d550-4199-8da8-71c9a518e635" />
 
 ## Result:
