@@ -55,6 +55,7 @@ Socket programming finds applications in various domains, including web developm
 ##Program:
 
 server:
+```
 import socket
 
 # Create socket
@@ -81,12 +82,14 @@ client_socket.send("Hello from Server!".encode())
 # Close connections
 client_socket.close()
 server_socket.close()
+```
 
 
 
 
 
 client :
+```
 import socket
 
 # Create socket
@@ -104,6 +107,7 @@ print("Server replied:", reply)
 
 # Close socket
 client_socket.close()
+```
 
 **##output**
 
